@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name_hint">Enter name</string>
+    <string name="ask_user">Tell us, what do you want ?</string>
+    <string name="a_birthday_template">A Birthday Template</string>
+    <string name="download_birthday_song">Download Birthday song</string>
+    <string name="ideas_to_make_birthday_super_fun">Ideas to make Birthday super fun</string>
+
+</resources>
