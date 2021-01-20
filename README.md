@@ -1,5 +1,6 @@
 # BirthdayApp
-A simple app built using Android Studio in Kotlin language.
+A simple app built using Android Studio in Kotlin language. This app gives you a readymade birthday template with the name entered by user. It also 
+enables the user to download a birthday song by visiting to a site and gives ideas to make birthday super fun.
 The key concepts i learnt by developing this app :
 - Android Studio interface.
 - Learnt about gradle, apk.
@@ -12,6 +13,9 @@ The key concepts i learnt by developing this app :
 - How to change order of display of activities by changing their order in AndroidManifest.xml file.
 - Toast
 
+
 Screenshots of the 3 activities are shown below
+
+![Image of Screen 1](https://github.com/KOMALDEWNANI/AppBirthday/blob/master/Activity_screenshots/birthday_app_screen1.jpg)     ![Image of Screen 2](https://github.com/KOMALDEWNANI/AppBirthday/blob/master/Activity_screenshots/birthday_app_screen2.jpg)     ![Image of Screen 1](https://github.com/KOMALDEWNANI/AppBirthday/blob/master/Activity_screenshots/birthday_app_screen3.jpg)  
 
 
