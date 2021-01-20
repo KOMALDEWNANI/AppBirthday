@@ -11,7 +11,8 @@
         android:layout_height="match_parent"
         android:src="@drawable/greetings2"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-42dp" />
+        tools:layout_editor_absoluteY="-42dp"
+        android:scaleType="centerCrop"/>
 
     <TextView
         android:id="@+id/show_greet"
