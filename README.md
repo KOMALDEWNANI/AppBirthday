@@ -11,3 +11,7 @@ The key concepts i learnt by developing this app :
 - Making use of images in the project by adding them to drawable.
 - How to change order of display of activities by changing their order in AndroidManifest.xml file.
 - Toast
+
+Screenshots of the 3 activities are shown below
+
+
