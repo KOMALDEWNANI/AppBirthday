@@ -13,7 +13,8 @@
         android:src="@drawable/background"
         android:visibility="visible"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="121dp" />
+        tools:layout_editor_absoluteY="121dp"
+        android:scaleType="centerCrop"/>
 
     <Button
         android:id="@+id/button"
